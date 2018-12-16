@@ -16,12 +16,21 @@ it returns a table back from the url containing
 For Example:
 
 Transaction ID:	0123456789012
+
 Payment Reference:	GTB|Web|4abc0123|IBBU|01234567
+
 Customer/Payer Name:	- Abubakar Abdusalam Olajide
+
 Phone Number:	07011298668
+
 Item Name:	UTME/DE
+
 Payment Date/Time:	06/28/2016 13:29:28
+
 Total Amount Paid:	N 3,800 : 00 K
+
 Payment Status:	Payment Received/Successful
+
+
 
 N.B: Applicable (without any editing) to Ibrahim Badamasi Babangida University (IBBU) website only

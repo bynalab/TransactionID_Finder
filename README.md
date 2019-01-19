@@ -1,6 +1,6 @@
 # TransactionID_Finder
 
-This returns all the transaction id withing the given range in the given link.
+This returns all the transaction id within the given range in the given link.
 
 it returns a table back from the url containing
 

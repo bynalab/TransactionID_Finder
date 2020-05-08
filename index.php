@@ -1,6 +1,7 @@
 
 <!--
- * Written by: BynaLab
+ * Author: Abubakar Abdusalam
+ * ORG: Binary Laboratory (Bynalab)
  * Email: bynalabs@gmail.com
  * Date: 07/12/2018
  * Time: 1:03 PM
@@ -113,10 +114,6 @@ while ($start <= $stop) {
     </script>
 
 <?php
-
-    //$logfile = fopen('logfile.html','a');
-    //fwrite($logfile,'Subject : ');
-    //fclose($logfile);
 
 	$start++;
 	}

@@ -1,7 +1,7 @@
 
 <!--
  * Written by: BynaLab
- * Email: jjidexy@gmail.com
+ * Email: bynalabs@gmail.com
  * Date: 07/12/2018
  * Time: 1:03 PM
 -->
